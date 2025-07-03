@@ -11,7 +11,7 @@
 
 ---
 Tu trouveras mon CV en détail :  
-📄
+📄 https://github.com/Camille-Informatique/CV
 
 ---
 Tu pourras découvrir quelques projets que j'ai créé pendant mes mois de formation :  
