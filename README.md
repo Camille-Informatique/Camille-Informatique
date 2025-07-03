@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Bonjour !
 
-<!--
-**Camille-Informatique/Camille-Informatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Camille**, 36 ans – Geekette à mes heures perdues.  
+📚 Autodidacte passionnée & étudiante en soutien informatique au CFP de Fierbourg (Québec).  
+💻 Je suis à la recherche d’un **stage en soutien aux utilisateurs** pour :  
+• développer mes compétences  
+• valider mon diplôme  
+• faire mes premiers pas dans le monde professionnel  
 
-Here are some ideas to get you started:
+📫 **Contact** : [cam1211@hotmail.fr](mailto:cam1211@hotmail.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> 🌱 _“Apprendre, c’est semer l’avenir.”_
+
+## 🙌 Au plaisir de se rencontrer !
+
+
+
