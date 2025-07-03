@@ -4,7 +4,7 @@
 📚 Autodidacte passionnée & étudiante en soutien informatique au CFP de Fierbourg (Québec).  
 💻 Je suis à la recherche d’un **stage en soutien aux utilisateurs** pour :  
 • développer mes compétences  
-• valider mon diplôme  
+• valider mon diplôme 
 • faire mes premiers pas dans le monde professionnel  
 
 📫 **Contact** : [cam1211@hotmail.fr](mailto:cam1211@hotmail.fr)
