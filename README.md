@@ -11,6 +11,11 @@
 
 ---
 
+Tu pourras trouver quelques projets que j'ai créé pendant mes mois de formation :
+
+
+---
+
 > 🌱 _“Apprendre, c’est semer l’avenir.”_
 
 ## 🙌 Au plaisir de se rencontrer !
