@@ -17,6 +17,7 @@ Tu trouveras mon CV en détail :
 Tu pourras découvrir quelques projets que j'ai créé pendant mes mois de formation :  
 - https://github.com/Camille-Informatique/Procedurier-Excel/tree/main
 - https://github.com/Camille-Informatique/PowerShell
+- https://github.com/Camille-Informatique/DEP-Soutien-Informatique
 
 ---
 
