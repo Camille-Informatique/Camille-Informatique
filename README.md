@@ -5,7 +5,7 @@
 💻 Je suis à la recherche d’un **stage en soutien aux utilisateurs** pour :  
 • développer mes compétences  
 • valider mon diplôme  
-• faire mes premiers pas dans le monde professionnel  
+• faire mes premiers pas dans le monde professionnel de l'informatique  
 
 📫 **Contact** : [cam1211@hotmail.fr](mailto:cam1211@hotmail.fr)
 
